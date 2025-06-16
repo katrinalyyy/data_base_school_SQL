@@ -40,5 +40,7 @@
 - PostgreSQL 12+
 
 ### Установка зависимостей:
-```bash
-pip install PyQt5 psycopg2-binary
+'''bash
+pip install PyQt5 psycopg2-binary'''
+
+- PS: Документацию к проекту есть (ТЗ, РП, ПМИ, РПЗ). Могу отдельно выслать.
